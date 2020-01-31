@@ -6,6 +6,7 @@ public class BufferedReader_VS_Scanner {
 
     public static void main(String[] args) {
        // Scanner input = new Scanner(System.in);
+        //prova della topa
     }
 
 }
